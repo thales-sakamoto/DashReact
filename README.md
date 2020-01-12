@@ -1,2 +1,0 @@
-# DashReact
-Created with CodeSandbox
